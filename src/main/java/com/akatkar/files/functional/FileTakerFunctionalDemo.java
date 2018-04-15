@@ -12,7 +12,7 @@ import java.nio.file.Paths;
 public class FileTakerFunctionalDemo {
 
     private static final String SRC = "D:\\Backup\\USB_1\\Calibre";
-    private static final String DEST = "D:\\Backup\\USB_1\\copyTest4";
+    private static final String DEST = "D:\\Backup\\USB_1\\copyTest";
     private static final String SFX = "pdf";
 
     private static void verifyPaths() {
